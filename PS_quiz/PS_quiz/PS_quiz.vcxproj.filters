@@ -27,7 +27,13 @@
     <ClCompile Include="Baekjoon2839_Greedy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjjon11399_Greedy.cpp">
+    <ClCompile Include="Baekjon11399_Greedy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon11047_Greedy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon1931_Greedy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
